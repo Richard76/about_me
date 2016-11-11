@@ -10,6 +10,8 @@
     Did you vote to have the queen of England be the president of the US?
     */
 
+
+/*
 var q1Male = prompt('Are you male?');
 console.log('User responded to the male Q with: ' + q1Male );
 
@@ -74,3 +76,4 @@ q5VoteQueen.toLowerCase() === 'n') {
 } else {
   alert('You really are bad at answering yes no questions. Next time vote for the queen. she rocks.');
 }
+*/
